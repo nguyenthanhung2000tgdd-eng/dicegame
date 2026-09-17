@@ -1,0 +1,7 @@
+C:\Users\nguye\source\repos\baitapdoanso\baitapdoanso\bin\Debug\baitapdoanso.exe.config
+C:\Users\nguye\source\repos\baitapdoanso\baitapdoanso\bin\Debug\baitapdoanso.exe
+C:\Users\nguye\source\repos\baitapdoanso\baitapdoanso\bin\Debug\baitapdoanso.pdb
+C:\Users\nguye\source\repos\baitapdoanso\baitapdoanso\obj\Debug\baitapdoanso.csproj.AssemblyReference.cache
+C:\Users\nguye\source\repos\baitapdoanso\baitapdoanso\obj\Debug\baitapdoanso.csproj.CoreCompileInputs.cache
+C:\Users\nguye\source\repos\baitapdoanso\baitapdoanso\obj\Debug\baitapdoanso.exe
+C:\Users\nguye\source\repos\baitapdoanso\baitapdoanso\obj\Debug\baitapdoanso.pdb

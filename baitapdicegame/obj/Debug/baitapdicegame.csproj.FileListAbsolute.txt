@@ -1,0 +1,7 @@
+C:\Users\nguye\source\repos\baitapdicegame\baitapdicegame\bin\Debug\baitapdicegame.exe.config
+C:\Users\nguye\source\repos\baitapdicegame\baitapdicegame\bin\Debug\baitapdicegame.exe
+C:\Users\nguye\source\repos\baitapdicegame\baitapdicegame\bin\Debug\baitapdicegame.pdb
+C:\Users\nguye\source\repos\baitapdicegame\baitapdicegame\obj\Debug\baitapdicegame.csproj.AssemblyReference.cache
+C:\Users\nguye\source\repos\baitapdicegame\baitapdicegame\obj\Debug\baitapdicegame.csproj.CoreCompileInputs.cache
+C:\Users\nguye\source\repos\baitapdicegame\baitapdicegame\obj\Debug\baitapdicegame.exe
+C:\Users\nguye\source\repos\baitapdicegame\baitapdicegame\obj\Debug\baitapdicegame.pdb
